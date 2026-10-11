@@ -18,4 +18,4 @@ This project requires the virtual machine provided for the university course, wh
 
 ### Documentation
 
-See the accompanying PDF for a detailed analysis of the operating system's design, architecture, implementation, and functionality.
+See the accompanying [PDF](ProjektniZadatak2024.v1.0.pdf) for a detailed analysis of the operating system's design, architecture, implementation, and functionality.
